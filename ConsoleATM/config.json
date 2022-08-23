@@ -1,0 +1,32 @@
+{
+  "Bills" : [
+    {
+      "Denomination": 10,
+      "Count": 100
+    },
+    {
+      "Denomination": 50,
+      "Count": 100
+    },
+    {
+      "Denomination": 100,
+      "Count": 100
+    },
+    {
+      "Denomination": 500,
+      "Count": 100
+    },
+    {
+      "Denomination": 1000,
+      "Count": 100
+    },
+    {
+      "Denomination": 5000,
+      "Count": 2
+    },
+    {
+      "Denomination": 10000,
+      "Count": 1
+    }
+  ]
+}
